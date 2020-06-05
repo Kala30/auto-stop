@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AutoStop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AutoStop_jar</output-path>
+    <root id="archive" name="AutoStop.jar">
+      <element id="module-output" name="AutoStop" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/BuildTools/spigot-1.15.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

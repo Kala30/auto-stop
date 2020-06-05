@@ -1,0 +1,7 @@
+# Time to stop the server
+# Format: HH:MM (use 24 hour)
+time: "24:00"
+# Time before shutdown to show warning (5:00 is 5 minutes before)
+warning-time: "5:00"
+# Message to show during warning
+warning-msg: "Server shutting down in 5 mins!"

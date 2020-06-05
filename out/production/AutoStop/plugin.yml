@@ -1,0 +1,5 @@
+name: AutoStop
+version: 1.0.0
+description: Automatically stops server
+author: Kala30
+main: com.cogentworks.autostop.AutoStopPlugin
